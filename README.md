@@ -1,6 +1,8 @@
 # Converse AI Labs Assignment - Call Quality Analyzer
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShanmukhaSatvik/Converse-AI-Labs-Assignment/blob/main/ConversAILabs.ipynb){:target="_blank"}
+<a href="https://colab.research.google.com/github/ShanmukhaSatvik/Converse-AI-Labs-Assignment/blob/main/ConversAILabs.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
+</a>
 
 ---
 
