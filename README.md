@@ -1,6 +1,6 @@
 # Converse AI Labs Assignment - Call Quality Analyzer
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShanmukhaSatvik/Converse-AI-Labs-Assignment/blob/main/ConversAILabs.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShanmukhaSatvik/Converse-AI-Labs-Assignment/blob/main/ConversAILabs.ipynb){:target="_blank"}
 
 ---
 
