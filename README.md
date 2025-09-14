@@ -62,9 +62,9 @@ The analyzer provides the following metrics:
 
 ## ⚡ How to Use
 
-1. Open the notebook in Colab using the button above.
-2. Upload your sales call audio file.
-3. Run all notebook cells sequentially.
+1. Open the notebook in Colab using the button above.  
+2. Upload your sales call audio file.  
+3. Run all notebook cells sequentially.  
 4. View the output metrics:
    - Talk-time ratio
    - Number of questions
